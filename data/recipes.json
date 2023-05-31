@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1,
+        "recipe_no": 1,
+        "name": "Chingri Macher Malai Curry",
+        "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp turmeric powder",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "method": "1. Heat oil in a pan and fry onion and garlic until golden brown. 2. Add all the spices and fry for another 2 minutes. 3. Add prawns and stir well. 4. Pour in the coconut milk and cook until the prawns are done. 5. Serve hot with rice.",
+        "rating": 4.5
+    },
+    {
+        "id": 1,
+        "recipe_no": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+            "4 pieces of hilsa fish",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp mustard paste",
+            "1 tbsp mustard oil",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder"
+        ],
+        "method": "1. Marinate the fish with turmeric powder and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. Add onion and green chilies and fry for another 2 minutes. 4. Add mustard paste and chili powder and cook for 5 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 1,
+        "recipe_no": 3,
+        "name": "Mishti Doi",
+        "ingredients": [
+            "1 liter milk",
+            "1 cup sugar",
+            "1 tbsp yogurt",
+            "1 tsp cardamom powder",
+            "1 tsp rose water"
+        ],
+        "method": "1. Boil milk and reduce it to half. 2. Add sugar and stir until dissolved. 3. Let the milk cool down to lukewarm. 4. Add yogurt and mix well. 5. Pour the mixture into earthen pots and let it ferment for 8 hours. 6. Add cardamom powder and rose water before serving.",
+        "rating": 4.6
+    },
+    {
+        "id": 2,
+        "recipe_no": 1,
+        "name": "Shukto (Mixed Vegetable Curry)",
+        "ingredients": [
+            "1 cup bitter gourd, sliced",
+            "1 cup raw papaya, sliced",
+            "1 cup sweet potato, cubed",
+            "1 cup eggplant, cubed",
+            "1 cup plantain, sliced",
+            "1 tsp mustard seeds",
+            "1 tsp cumin seeds",
+            "1 tsp turmeric powder"
+        
+        ],
+        "method": "Heat the oil in a pan and fry the mustard seeds, cumin seeds, bay leaf, and dried red chilies until they start to splutter. Add all the vegetables and fry for 5-7 minutes. Add water and bring it to a boil. Add salt and turmeric powder. Simmer for 10-15 minutes or until the vegetables are cooked through. Serve hot with rice.",
+        "rating": 4.3
+    },
+    {
+        "id": 2,
+        "recipe_no": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+            "4 pieces of hilsa fish",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp mustard paste",
+            "1 tbsp mustard oil",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "Salt to taste"
+        ],
+        "method": "1. Marinate the fish with turmeric powder and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. Add onion and green chilies and fry for another 2 minutes. 4. Add mustard paste and chili powder and cook for 5 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "recipe_no": 3,
+        "name": "Chingri Macher Malai Curry",
+        "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+        ],
+        "method": "1. Heat oil in a pan and fry onion and garlic until golden brown. 2. Add all the spices and fry for another 2 minutes. 3. Add prawns and stir well. 4. Pour in the coconut milk and cook until the prawns are done. 5. Serve hot with rice.",
+        "rating": 4.6
+    },
+    {
+        "id": 3,
+        "recipe_no": 1,
+        "name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "ingredients": [
+            "1 lb mutton, cut into pieces",
+            "2 onions, chopped",
+            "2 tomatoes, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+        ],
+        "method": "1. Heat oil in a pan and fry onions until golden brown.2. Add ginger-garlic paste and fry for a minute.3. Add tomatoes and cook until they turn mushy.4. Add mutton, yogurt, and water. Cook on low flame until the mutton is tender.5. Season with salt and sugar. Serve hot with steamed rice.",
+        "rating": 4.3
+    },
+    {
+        "id": 3,
+        "recipe_no": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+            "4 pieces of hilsa fish",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp mustard paste",
+            "1 tbsp mustard oil",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "Salt to taste"
+        ],
+        "method": "1. Marinate the fish with turmeric powder and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. Add onion and green chilies and fry for another 2 minutes. 4. Add mustard paste and chili powder and cook for 5 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "recipe_no": 3,
+        "name": "Chingri Macher Malai Curry",
+        "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder"
+            
+        ],
+        "method": "1. Heat oil in a pan and fry onion and garlic until golden brown. 2. Add all the spices and fry for another 2 minutes. 3. Add prawns and stir well. 4. Pour in the coconut milk and cook until the prawns are done. 5. Serve hot with rice.",
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "recipe_no": 1,
+        "name": "Bhapa Chingri",
+        "ingredients": [
+            "500g prawns",
+            "1 cup grated coconut",
+            "2 green chilies, chopped",
+            "1 onion, chopped",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+        ],
+        "method": "1. Mix all the ingredients in a bowl and transfer to a greased bowl. \n2. Cover the bowl with foil and steam for 20 minutes. \n3. Serve hot with steamed rice.",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "recipe_no": 2,
+        "name": "Fish curry",
+        "ingredients": [
+            "4 pieces of hilsa fish",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp mustard paste",
+            "1 tbsp mustard oil",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "Salt to taste"
+        ],
+        "method": "1. Marinate the fish with turmeric powder and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. Add onion and green chilies and fry for another 2 minutes. 4. Add mustard paste and chili powder and cook for 5 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 4,
+        "recipe_no": 3,
+        "name": "Fish Malai Curry",
+        "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+        ],
+        "method": "1. Heat oil in a pan and fry onion and garlic until golden brown. 2. Add all the spices and fry for another 2 minutes. 3. Add prawns and stir well. 4. Pour in the coconut milk and cook until the prawns are done. 5. Serve hot with rice.",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "recipe_no": 1,
+        "name": "Special Khichuri recipe",
+        "ingredients": [
+            "rice 500g ",
+            "1/2 cup split moong dal (yellow lentil)",
+            "2 green chilies, chopped",
+            "1 onion, chopped",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+        ],
+        "method": "Soak the rice and lentils in water for 30 minutes. Heat ghee in a deep-bottomed pan and add the cumin seeds, bay leaf, dried red chillies, cinnamon stick, cloves and cardamom pods.Add chopped onions and fry until translucent.Add ginger paste and fry for another 1-2 minutes.Mix everything well and fry for 2-3 minutes.",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "recipe_no": 2,
+        "name": "Ghugni Chaat ",
+        "ingredients": [
+            "4 pieces of hilsa fish",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp mustard paste",
+            "1 tbsp mustard oil",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "Salt to taste"
+        ],
+        "method": "1. Marinate the fish with turmeric powder and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. Add onion and green chilies and fry for another 2 minutes. 4. Add mustard paste and chili powder and cook for 5 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "recipe_no": 3,
+        "name": "Macher Jhol",
+        "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+            
+        ],
+        "method": "1. Heat oil in a pan and fry onion and garlic until golden brown. 2. Add all the spices and fry for another 2 minutes. 3. Add prawns and stir well. 4. Pour in the coconut milk and cook until the prawns are done. 5. Serve hot with rice.",
+        "rating": 4.6
+    },
+    {
+        "id": 6,
+        "recipe_no": 1,
+        "name": "Beef Bhuna",
+        "ingredients": [
+            "rice 500g ",
+            "1/2 cup split moong dal (yellow lentil)",
+            "2 green chilies, chopped",
+            "1 onion, chopped",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder"
+           
+        ],
+        "method": "Soak the rice and lentils in water for 30 minutes. Heat ghee in a deep-bottomed pan and add the cumin seeds, bay leaf, dried red chillies, cinnamon stick, cloves and cardamom pods.Add chopped onions and fry until translucent.Add ginger paste and fry for another 1-2 minutes.Mix everything well and fry for 2-3 minutes.",
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "recipe_no": 2,
+        "name": "Beef Kalia ",
+        "ingredients": [
+            "4 pieces of hilsa fish",
+            "1 onion, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp mustard paste",
+            "1 tbsp mustard oil",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "Salt to taste"
+        ],
+        "method": "1. Marinate the fish with turmeric powder and salt. 2. Heat mustard oil in a pan and fry the fish until golden brown. 3. Add onion and green chilies and fry for another 2 minutes. 4. Add mustard paste and chili powder and cook for 5 minutes. 5. Serve hot with steamed rice.",
+        "rating": 4.8
+    },
+    {
+        "id": 6,
+        "recipe_no": 3,
+        "name": "Kosha Mangsho",
+        "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp turmeric powder",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "method": "1. Heat oil in a pan and fry onion and garlic until golden brown. 2. Add all the spices and fry for another 2 minutes. 3. Add prawns and stir well. 4. Pour in the coconut milk and cook until the prawns are done. 5. Serve hot with rice.",
+        "rating": 4.6
+    }
+]

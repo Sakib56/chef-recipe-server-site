@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://i0.wp.com/cdn.whatsuplife.in/kolkata/blog/2016/09/Chef-Sushanta-Sengupta-1024x683.jpg",
+        "chef_name": "Syed Sadat Reza",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 500,
+        "bio": "Syed Sadat Reza is a renowned chef, cookbook author, and restaurateur who has been instrumental in popularizing bengali cuisine globally. He is the co-founder of Djb, a Michelin-starred restaurant in New York City."
+
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201612/11fir27-1_647_121116012310.jpg?VersionId=CE_B31gyuEkrI6ypJAy6kOI7oVmW7noV",
+        "chef_name": "Siddique Ansari",
+        "years_of_experience": 5,
+        "num_recipes": 30,
+        "likes": 200,
+        "bio": "Siddique Ansari is a famous chef, food blogger, and restaurateur who has been instrumental in popularizing bengali cuisine globally. He is the co-founder of Djb, a Michelin-starred restaurant in Canada."
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://www.mansworldindia.com/wp-content/uploads/2000/04/Sanjeev-2.jpg",
+        "chef_name": "Irfan Pabaney",
+        "years_of_experience": 15,
+        "num_recipes": 70,
+        "likes": 1000,
+        "bio": "Irfan Pabaney is a professional chef, food blogger, and restaurateur who has been instrumental in popularizing bengali cuisine globally. He is the co-founder of PabaneyLtm, a Michelin-starred restaurant in Dubai."
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://images.slurrp.com/prod/articles/sukve62mn2.webp",
+        "chef_name": "Munir Ahmed",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 300,
+        "bio": "Munir Ahmedis a Famous chef, food blogger, and restaurateur who has been instrumental in popularizing bengali cuisine globally. He is the co-founder of DbLtm, a Michelin-starred restaurant in Australia."
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://assets.wam.ae/uploads/2022/10/2147204962381374990.jpg",
+        "chef_name": "Nadeem Abbas",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 800,
+        "bio": "Nadeem Abbas is a one of the best chef, food blogger, and restaurateur who has been instrumental in popularizing bengali cuisine globally. He is the co-founder of DbLtm, a Michelin-starred restaurant in London."
+        
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://images.yourstory.com/cs/7/4c455a90a21411e98b07315772315642/SANJEEVKAPOORCOVERFotor-1599114378184.png?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces",
+        "chef_name": "Vivek Saggar",
+        "years_of_experience": 3,
+        "num_recipes": 20,
+        "likes": 50,
+        "bio": "Vivek Saggar is a Famous chef, food blogger, and restaurateur who has been instrumental in popularizing bengali cuisine globally. He is the co-founder of DbLtm, a Michelin-starred restaurant in Germany."
+    }
+]
